@@ -30,7 +30,7 @@ let so =a+b
     return so
 }
 console.log(somm(5,25))
-//**********ex4***** */
+//**********ex5***** */
 function time(h){
 let so =h*60;
     return so
